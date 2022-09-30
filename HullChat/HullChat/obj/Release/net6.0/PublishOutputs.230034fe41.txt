@@ -1,0 +1,7 @@
+C:\Users\chima\source\repos\HullChat\HullChat\obj\Release\net6.0\PubTmp\Out\HullChat.exe
+C:\Users\chima\source\repos\HullChat\HullChat\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\chima\source\repos\HullChat\HullChat\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\chima\source\repos\HullChat\HullChat\obj\Release\net6.0\PubTmp\Out\HullChat.dll
+C:\Users\chima\source\repos\HullChat\HullChat\obj\Release\net6.0\PubTmp\Out\HullChat.deps.json
+C:\Users\chima\source\repos\HullChat\HullChat\obj\Release\net6.0\PubTmp\Out\HullChat.runtimeconfig.json
+C:\Users\chima\source\repos\HullChat\HullChat\obj\Release\net6.0\PubTmp\Out\HullChat.pdb

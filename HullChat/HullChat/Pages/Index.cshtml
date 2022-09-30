@@ -1,0 +1,12 @@
+﻿@page
+@model IndexModel
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Hull Admissions Advice</h1>
+    <iframe src='https://webchat.botframework.com/embed/hullbotlanguageservice-bot?s=@Configuration.GetSection("Secrets")["MicrosoftAppSecret"]' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+</div>
